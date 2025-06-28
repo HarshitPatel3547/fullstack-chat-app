@@ -9,6 +9,3 @@
 - **Database:** MongoDB
 ## Preview
 
-### 1. Register Page
-
-![Register Page](assets/register-page)
