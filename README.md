@@ -1,0 +1,1 @@
+NexChat is a chatting application that provides a real-time communication using socket.io and it stores user's details and messages in an encrypted format using MongoDB database. It provides a features like user can set an avatar for their profile and emoji support along with messages enhancing user's experience
