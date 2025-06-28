@@ -7,3 +7,8 @@
 - **Client:** React JS  
 - **Server:** Node JS, Express JS, Socket.io  
 - **Database:** MongoDB
+## Preview
+
+### 1. Register Page
+
+![Register Page](assets/register-page)
